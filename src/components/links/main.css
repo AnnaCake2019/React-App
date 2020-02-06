@@ -1,0 +1,40 @@
+.link{
+    display: flex;
+    justify-content: left;
+}
+.link a{
+    transition: 1s;
+    margin: 0 10px 0 10px;
+    text-decoration: none;
+    color: crimson;
+}
+.link a:hover{
+    transition: 1s;
+    font-size: 17px;
+    color: black;
+}
+.exit button{
+    margin-left: 40px;
+}
+.action{
+    display: flex;
+    justify-content: left;
+}
+.action button{
+    margin-left: 10px;
+}
+.contArticle{
+    border: 1px silver solid;
+    border-radius: 7px;
+    padding: 10px;
+}
+.show{
+    display: none;
+}
+.refactor form{
+    display: flex;
+    justify-content: center;
+}
+.boxCom{
+    text-align: center;
+}
